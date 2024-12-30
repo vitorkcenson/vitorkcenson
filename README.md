@@ -18,9 +18,13 @@ Interests: Meteorology, Finance, Astronomy**
 # *Here's a glimpse of what I can do:*
 
 > Data Analysis: I can analyze and interpret data, particularly in meteorology and finance. However, I'm enthusiastic about exploring other fields as well.
+
 > Communication: I'm a strong communicator, both written and verbal. I have experience communicating on radio, TV, and the internet.
+
 > Problem-Solving: I'm a creative problem solver who can prioritize and manage multiple tasks effectively.
+
 > Teamwork: I'm a respectful team player who values collaboration and is always willing to help.
+
 > Programming: I'm currently learning programming languages like Python, SQL, and Excel to further enhance my skillset.
 
 # **Interests**
